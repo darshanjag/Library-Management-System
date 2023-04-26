@@ -52,7 +52,7 @@ Library Management System for Portfolio created with SpringBoot and Hibernate us
 
 #### add(num1, num2)
 
-Takes two numbers and returns the sum.
+
 
 
 ## Features
