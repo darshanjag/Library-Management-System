@@ -55,11 +55,6 @@ Library Management System for Portfolio created with SpringBoot and Hibernate us
 Takes two numbers and returns the sum.
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## Features
 
 -adds student
@@ -74,10 +69,6 @@ Insert gif or link to demo
 
 -issues a book to user and sends mail
 
-## 🚀 About Me
-I'm a full stack developer...
-
-
 ## Installation
 change application properties, update mysql username and password.
 create database.
@@ -86,3 +77,7 @@ and update the spring.datasource.url in application properties
 
 
     
+## Demo
+
+go to swagger-ui/index.html/ to see what you can do with it. it provides a list of apis.
+
